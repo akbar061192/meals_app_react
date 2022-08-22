@@ -1,0 +1,13 @@
+.meal-info-container {
+  margin: 50px;
+}
+
+.meal-info-btn {
+  margin-bottom: 20px;
+  padding: 10px;
+  width: 200px;
+}
+
+.meal-info {
+  display: flex;
+}
